@@ -1,2 +1,6 @@
-# Computer-Science
-Security foundations, cryptography, networking and core concepts.
+# 🧠 Computer Science
+
+Core computing concepts that support cybersecurity.
+
+This section focuses on cryptography, networking,
+and fundamental system understanding.
